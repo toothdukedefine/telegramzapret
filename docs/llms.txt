@@ -1,0 +1,10 @@
+# telegramzapret
+
+Сборка telegramzapret: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+
+Сборка telegramzapret: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/toothdukedefine/telegramzapret/releases/latest
+Код: https://github.com/toothdukedefine/telegramzapret
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/toothdukedefine/telegramzapret
