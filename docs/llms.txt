@@ -1,6 +1,6 @@
 # telegramzapret
 
-Сборка telegramzapret: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+Актуальная версия с поддержкой обхода Telegram в текущих условиях. Быстрее, надежнее, стабильнее
 
 Сборка telegramzapret: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
